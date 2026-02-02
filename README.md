@@ -36,7 +36,7 @@ Clone this repository to your local machine and install the dependencies:
 
 ###### Clone the repository
 ```bash
-git clone https://github.com//IT3040---IT-Project-Management.git
+git clone https://github.com/sathsaraillankoon13/IT-Project-Management.git
 ```
 
 ###### Navigate into the folder
