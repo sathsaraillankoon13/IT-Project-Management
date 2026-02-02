@@ -41,7 +41,7 @@ git clone https://github.com/sathsaraillankoon13/IT-Project-Management.git
 
 ###### Navigate into the folder
 ```bash
-cd SLIIT ITPM
+cd ITPM 
 ```
 
 ###### Install Node modules
