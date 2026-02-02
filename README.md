@@ -62,7 +62,7 @@ You can run the tests using the following terminal commands:
 | :--- | :--- |
 | Run All Tests (Headed) | npx playwright test --headed |
 | Run Accuracy Tests | npx playwright test tests/assignment.spec.js --headed |
-| Run UI-Related Tests | npx playwright test tests/test.spec.js --headed |
+| Run UI-Related Tests | npx playwright test tests/UI_tests.spec.js --headed |
 | View Test Report | npx playwright show-report |
 
 ---
@@ -71,11 +71,10 @@ You can run the tests using the following terminal commands:
 ```text
 ├── tests/
 │   ├── assignment.spec.js   # Accuracy validation scenarios (24+ cases)
-│   └── test.spec.js         # UI-related scenarios (Reset/Clear functionality)
+│   └── UI_tests.spec.js         # UI-related scenarios (Reset/Clear functionality)
 ├── playwright.config.js     # Playwright configuration
 ├── package.json             # Project dependencies
 ├── README.md                # Project documentation
-└── IT.xlsx          # Test Case document (Appendix 2)
 ```
 
 ---
