@@ -8,8 +8,8 @@ This repository contains the automated testing suite for the **SwiftTranslator**
 ## 👤 Student Information
 | Field | Details |
 | :--- | :--- |
-| **Name** | |
-| **Student ID** |  |
+| **Name** |Illankoon.I.A.KS |
+| **Student ID** |IT23554818  |
 | **Specialization** | Information Technology |
 | **Option Selected** | Option 1 (Singlish to Sinhala) |
 
@@ -36,7 +36,7 @@ Clone this repository to your local machine and install the dependencies:
 
 ###### Clone the repository
 ```bash
-git clone https://github.com/pasindu8/IT3040---IT-Project-Management.git
+git clone https://github.com//IT3040---IT-Project-Management.git
 ```
 
 ###### Navigate into the folder
